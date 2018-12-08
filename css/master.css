@@ -19,13 +19,13 @@
 }
 
 #main-showcase{
-  background-image: url(./img/stonebrg.jpg);
+  background-image: url(../img/stonebrg.jpg);
 }
 #middle-showcase{
-  background-image: url(./img/studio.jpg);
+  background-image: url(../img/studio.jpg);
 
 }
 #last-showcase{
-  background-image: url(./img/studio2.jpg);
+  background-image: url(../img/studio2.jpg);
 
 }
