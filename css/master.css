@@ -27,5 +27,7 @@
 }
 #last-showcase{
   background-image: url(../img/studio2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
