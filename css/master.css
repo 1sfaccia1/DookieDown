@@ -17,3 +17,15 @@
   width: 100%;*/
 
 }
+
+#main-showcase{
+  background-image: url(./img/stonebrg.jpg);
+}
+#middle-showcase{
+  background-image: url(./img/studio.jpg);
+
+}
+#last-showcase{
+  background-image: url(./img/studio2.jpg);
+
+}
