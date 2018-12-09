@@ -23,6 +23,8 @@
 }
 #middle-showcase{
   background-image: url(../img/studio.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 #last-showcase{
