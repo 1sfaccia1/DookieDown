@@ -4,32 +4,6 @@
 
 }
 
-/*#index-banner{
-  background-image: url(../img/studio.JPG);
-  background-size: cover;
-
-
-
-/*  background-repeat: no-repeat;
-  background-position: center;
-  position: absolute;
-  height: 100%;
-  width: 100%;*/
-
-}
-
-#main-showcase{
-  background-image: url(../img/stonebrg.jpg);
-}
-#middle-showcase{
-  background-image: url(../img/studio.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-
-}
-#last-showcase{
-  background-image: url(../img/studio2.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-
+.brand-logo, .header{
+  font-family: 'Luckiest Guy', cursive;
 }
